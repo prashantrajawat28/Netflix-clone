@@ -12,15 +12,15 @@ This is a responsive Netflix clone website built with HTML and CSS. It mimics th
 
 ### Homepage View
 
-![Screenshot 1](assets/images/screenshots/screenshot1.png)
+![Screenshot 1](netflix/assets/images/screenshots/Screenshot1.png)
 
 ### TV Streaming Section
 
-![Screenshot 2](assets/images/screenshots/screenshot2.png)
+![Screenshot 2](netflix/assets/images/screenshots/screenshot2.png)
 
 ### footer Section
 
-![Screenshot 3](assets/images/screenshots/screenshot3.png)
+![Screenshot 3](netflix/assets/images/screenshots/screenshot3.png)
 
 ## 🚀 How to Run the Project Locally
 
