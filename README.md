@@ -8,19 +8,17 @@ This is a responsive Netflix clone website built with HTML and CSS. It mimics th
 - Sections showcasing features like TV streaming, downloads, kids profiles
 - FAQ section with collapsible questions (if implemented).
 
-- ## Screenshots
+## 📸 Screenshots
 
-### Homepage View
+### 🏠 Homepage View
+![Screenshot 1](assets/images/screenshots/screenshot1.png)
 
-![Screenshot 1](Netflix-clone/assets/images/screenshots/Screenshot1.png)
+### 📺 TV Streaming Section
+![Screenshot 2](assets/images/screenshots/screenshot2.png)
 
-### TV Streaming Section
+### 📩 Footer Section
+![Screenshot 3](assets/images/screenshots/screenshot3.png)
 
-![Screenshot 2](netflix/assets/images/screenshots/screenshot2.png)
-
-### footer Section
-
-![Screenshot 3](netflix/assets/images/screenshots/screenshot3.png)
 
 ## 🚀 How to Run the Project Locally
 
